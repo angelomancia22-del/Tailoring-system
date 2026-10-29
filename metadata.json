@@ -1,0 +1,6 @@
+{
+  "name": "Barangay Bagong Bayan 1 - Tailoring Order & Measurement Management System",
+  "description": "Digital customer order, precise body measurements, payment tracking, and shop administration platform for tailoring shops in Barangay Bagong Bayan 1.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
